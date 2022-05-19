@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jorge
+- 👀 I’m interested in learning about data-intensive applications
+- 🌱 I’m currently learning about system design
